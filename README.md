@@ -1,6 +1,6 @@
 # Neural-Network-Simulation
 
-This simulation shows how a feedforward neural network learns to classify 2D data points (Class 0 and Class 1) through training.
+This simulation shows how a feedforward neural network learns to classify 2D data points (Class 0 and Class 1) through training
 
 Each neuron and connection is animated to reflect:
 - Weight magnitude (line thickness)
@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/b62e07ef-28aa-497b-b3dd-1675a0ca38f8
 - A static network is displayed on launch with interactive sliders for iterations (training steps) and alpha (learning rate), along with buttons for start and reset
 - The neural network starts training after the user clicks Start on the screen
 - During training, the connections (weights) are visualised as lines whose thickness and colour change based on magnitude and sign and Neurons glow with blue intensity to reflect their activation values
-- After training, the final accuracy is calculated and displayed on-screen and users can reset the model and start over with new settings.
+- After training, the final accuracy is calculated and displayed on-screen and users can reset the model and start over with new settings
 
 
 
