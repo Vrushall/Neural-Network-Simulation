@@ -16,6 +16,12 @@ Each neuron and connection is animated to reflect:
 
 # Preview
 
+
+
+https://github.com/user-attachments/assets/b62e07ef-28aa-497b-b3dd-1675a0ca38f8
+
+
+
 # Workflow
 
 ## Libraries
